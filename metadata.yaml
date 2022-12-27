@@ -1,0 +1,93 @@
+_repo: Narrative-of-a-five-years-expedition-against-the-Revolted-Negroes-of-Surinam-in-Guiana-on-the__69441
+_version: 0.0.1
+alternative_title: Narrative, of a 5 years' expedition against the Revolted Negroes
+  of Surinam, in Guiana on the Wild Coast of South America; from the year 1772 to
+  1777 ... Volume 2 (of 2)
+contributor:
+  engineers:
+  - agent_name: Barlow, Inigo
+    aliases:
+    - Barlow, J. (John)
+    - Barlow, John
+    birthdate: 1759
+    gutenberg_agent_id: '53479'
+    url: http://www.gutenberg.org/2009/agents/53479
+  - agent_name: Bartolozzi, Francesco
+    aliases:
+    - Bartolozzi, F. (Francesco)
+    - Bartolozzi, Frao. (Francesco)
+    birthdate: 1727
+    deathdate: 1815
+    gutenberg_agent_id: '53472'
+    url: http://www.gutenberg.org/2009/agents/53472
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Francesco_Bartolozzi
+    - https://it.wikipedia.org/wiki/Francesco_Bartolozzi
+  - agent_name: Blake, William
+    alias: Blake, W. (William)
+    birthdate: 1757
+    deathdate: 1827
+    gutenberg_agent_id: '295'
+    url: http://www.gutenberg.org/2009/agents/295
+    wikipedia: https://en.wikipedia.org/wiki/William_Blake
+  - agent_name: Conder, Thomas
+    aliases:
+    - Conder, T. (Thomas)
+    - Conder, Thos. (Thomas)
+    birthdate: 1746
+    deathdate: 1831
+    gutenberg_agent_id: '53405'
+    url: http://www.gutenberg.org/2009/agents/53405
+  - agent_name: Holloway, Thomas
+    alias: Holloway, T. (Thomas)
+    birthdate: 1748
+    deathdate: 1827
+    gutenberg_agent_id: '53471'
+    url: http://www.gutenberg.org/2009/agents/53471
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Holloway_(painter)
+  - agent_name: Smith, Anker
+    alias: Smith, A. (Anker)
+    birthdate: 1759
+    deathdate: 1819
+    gutenberg_agent_id: '53481'
+    url: http://www.gutenberg.org/2009/agents/53481
+    wikipedia: https://en.wikipedia.org/wiki/Anker_Smith
+creator:
+  author:
+    agent_name: Stedman, John Gabriel
+    alias: Stedman, Jean-Gabriel
+    birthdate: 1744
+    deathdate: 1797
+    gutenberg_agent_id: '2640'
+    url: http://www.gutenberg.org/2009/agents/2640
+    wikipedia:
+    - https://en.wikipedia.org/wiki/John_Gabriel_Stedman
+    - https://nl.wikipedia.org/wiki/John_Gabri%C3%ABl_Stedman
+description: ''
+gutenberg_issued: '2022-11-28'
+identifiers:
+  gutenberg: '69441'
+language: en
+pgterms:marc904: https://archive.org/details/b28770092_0001/mode/2up, https://archive.org/details/b28770092_0002/mode/2up
+pgterms:marc905: 20200413173833stedman
+pgterms:marc906: '1796'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net/ for Project Gutenberg (This file was produced from
+  images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: J. Johnson,1796.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suriname -- Description and travel'
+- !lcsh 'Suriname -- History -- To 1814'
+- !lcsh 'Stedman, John Gabriel, 1744-1797 -- Travel -- Suriname'
+- !lcsh 'Slavery -- Suriname -- History -- 18th century'
+- !lcsh 'Indians of South America -- Guiana'
+- !lcc 'F2351'
+- GITenberg
+title: Narrative, of a five years' expedition against the Revolted Negroes of Surinam,
+  in Guiana on the Wild Coast of South America; from the year 1772 to 1777 ... Volume
+  2 (of 2)
+url: http://www.gutenberg.org/ebooks/69441
