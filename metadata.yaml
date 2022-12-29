@@ -52,6 +52,9 @@ contributor:
     gutenberg_agent_id: '53481'
     url: http://www.gutenberg.org/2009/agents/53481
     wikipedia: https://en.wikipedia.org/wiki/Anker_Smith
+covers:
+- cover_type: archival
+  image_path: 69441-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Stedman, John Gabriel
@@ -64,6 +67,8 @@ creator:
     - https://en.wikipedia.org/wiki/John_Gabriel_Stedman
     - https://nl.wikipedia.org/wiki/John_Gabri%C3%ABl_Stedman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69441#Narrative-of-a-five-years-expedition-against-the-Revolted-Negroes-of-Surinam-in-Guiana-on-the_
 gutenberg_issued: '2022-11-28'
 identifiers:
   gutenberg: '69441'
